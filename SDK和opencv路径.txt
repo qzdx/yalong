@@ -1,0 +1,2 @@
+Opencv4的路径 "/home/nvidia/opencv-4.x/build/" , 和build的位置有关
+SDK的路径 "/home/nvidia/RobotConSys_SDK/"
